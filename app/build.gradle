@@ -121,7 +121,7 @@ dependencies {
     //implementation 'com.squareup.picasso:picasso:2.71828'
     //implementation 'io.branch.sdk.android:library:3.0.4'
     //Date Picker
-    implementation 'com.wdullaer:materialdatetimepicker:4.1.2'
+    implementation 'com.wdullaer:materialdatetimepicker:4.2.3'
 
     //Google Map
     //implementation 'com.google.android.gms:play-services-maps:17.0.0'
