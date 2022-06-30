@@ -116,7 +116,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-dynamic-links:19.0.0'*/
 
     //OkHttp
-    implementation("com.squareup.okhttp3:okhttp:4.9.3")
+    implementation("com.squareup.okhttp3:okhttp:4.10.0")
     //Picasso for showing gallery image
     //implementation 'com.squareup.picasso:picasso:2.71828'
     //implementation 'io.branch.sdk.android:library:3.0.4'
