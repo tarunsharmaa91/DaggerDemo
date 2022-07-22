@@ -91,7 +91,7 @@ dependencies {
     implementation 'com.google.dagger:dagger-android:2.42'
     implementation 'com.google.dagger:dagger-android-support:2.42'
     annotationProcessor 'com.google.dagger:dagger-android-processor:2.42'
-    annotationProcessor 'com.google.dagger:dagger-compiler:2.17'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.43'
 
     //Snackbar on Top
     implementation 'com.androidadvance:topsnackbar:1.1.1'
