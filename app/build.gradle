@@ -98,7 +98,7 @@ dependencies {
     //Enable MultiDex
     implementation 'androidx.multidex:multidex:2.0.1'
     //EventBus
-    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation 'org.greenrobot:eventbus:3.3.1'
     implementation 'de.hdodenhof:circleimageview:2.2.0'
 
     implementation 'com.tiagosantos:enchantedviewpager:1.1.0'
