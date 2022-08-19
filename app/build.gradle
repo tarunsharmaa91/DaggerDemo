@@ -104,7 +104,7 @@ dependencies {
     implementation 'com.tiagosantos:enchantedviewpager:1.1.0'
     // Butter knife
     implementation 'com.jakewharton:butterknife:10.2.3'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
     //Pull To Refresh
     implementation 'com.baoyz.pullrefreshlayout:library:1.2.0'
 
