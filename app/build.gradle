@@ -140,7 +140,7 @@ dependencies {
     androidTestImplementation "org.mockito:mockito-core:$rootProject.mockitoVersion"
     androidTestImplementation "org.mockito:mockito-android:$rootProject.mockitoVersion"
     androidTestImplementation 'junit:junit:4.13.2'
-    testImplementation "org.robolectric:robolectric:4.8.2"
+    testImplementation "org.robolectric:robolectric:4.9"
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.google.dexmaker:dexmaker:1.2'
