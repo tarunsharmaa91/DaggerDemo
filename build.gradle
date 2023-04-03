@@ -45,7 +45,7 @@ ext {
     compileSdkVersion = 29
     //FireBase
     //firebaseVersion = '20.0.0'
-    updatedSupportLibraryVersion = '1.1.0'
+    updatedSupportLibraryVersion = '1.6.1'
     supportLibraryVersion = '1.0.0'
     gsonVersion = '2.8.5'
     calligraphyVersion = '2.3.0'
