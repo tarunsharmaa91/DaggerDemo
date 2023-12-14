@@ -46,7 +46,7 @@ ext {
     //FireBase
     //firebaseVersion = '20.0.0'
     updatedSupportLibraryVersion = '1.1.0'
-    supportLibraryVersion = '1.0.0'
+    supportLibraryVersion = '1.11.0'
     gsonVersion = '2.8.5'
     calligraphyVersion = '2.3.0'
     roomDatabase = '1.0.0-beta2'
