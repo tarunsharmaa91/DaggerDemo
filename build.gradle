@@ -49,7 +49,7 @@ ext {
     supportLibraryVersion = '1.0.0'
     gsonVersion = '2.8.5'
     calligraphyVersion = '2.3.0'
-    roomDatabase = '1.0.0-beta2'
+    roomDatabase = '1.1.1'
     rx2FastAndroidNetworking = '1.0.0'
     androidNetworking = '1.0.2'
 
